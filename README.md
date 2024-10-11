@@ -1,1 +1,1 @@
-I know that the structure is kinda fckued up but ill just leave it here, the media folder contains all the pics I will be possibly using in my websites
+I know that the structure is kinda fckued up but ill just leave it here. The media folder contains all the pics I will be possibly using in my websites. Also this is like my first website ever, so obviously, it contains some errors.
